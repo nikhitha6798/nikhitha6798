@@ -1,12 +1,4 @@
-# MIT Apache 2.0
+#LICENSE
 
-
-
-license
-
-
-ib
-
-A
-A
+#MIT Apache 2.0
 
